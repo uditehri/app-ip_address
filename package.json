@@ -1,0 +1,22 @@
+{
+  "name": "@acme/app-ip_address",
+  "version": "1.0.0",
+  "description": "Itential Academy IDEV110 IAP Product Essentials Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uditehri/app-ip_address.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uditehri/app-ip_address/issues"
+  },
+  "homepage": "https://github.com/uditehri/app-ip_address#readme",
+  "dependencies": {
+    "ip-cidr": "^2.1.0"
+  }
+}
