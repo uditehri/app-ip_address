@@ -5,6 +5,7 @@
   Assign the class definition to variable IPCIDR.
 */
 const IPCIDR = require('ip-cidr');
+const path = require('path');
 const { getIpv4MappedIpv6Address } = require(path.join(__dirname, 'ipv6.js'));
 
 /**
